@@ -1,0 +1,23 @@
+a{
+    font-weight: bold;
+     background: -webkit-linear-gradient(hsl(34, 89%, 48%), #df2f2f);
+     -webkit-background-clip: text;
+     -webkit-text-fill-color: transparent;
+   }
+   #grad1 {
+     height: 100px;
+     background-image: linear-gradient(to bottom right, black, white);
+   }
+   p{
+     font-weight: bold;
+      background: -webkit-linear-gradient(hsl(59, 89%, 48%), #ecf576);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .back {
+      background-color:red;
+      width: 400px; height:200px; margin:0 auto;
+      background-image: linear-gradient(90deg, rgba(255, 255, 255, .5) 95px , transparent 50%),
+      linear-gradient(rgba(255, 255, 255, 0) 5px, transparent 100%);
+      background-size: 100px  100%;
+  }

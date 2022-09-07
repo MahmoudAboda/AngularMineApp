@@ -1,0 +1,21 @@
+.slick-slider {  
+  width: 90%;  
+  margin: auto;  
+} 
+.slide{
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+/* Bottom right text */
+.text-block {
+position: absolute;
+bottom: 8px;
+left: 16px;
+
+}
+#grad1 {
+  height: 100px;
+  background-image: linear-gradient(to bottom right, black, white);
+}
